@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: "Slackey", cursive !important;
+  background-color: darkblue;
+}
+code {
+  font-family:  source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace; 
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+  text-align: center;
+}
+.col-12 {
+  padding-bottom: 40px;
+}
+.container {
+  margin-top: 5%;
+  min-height: 80vh;
+  max-height: 90vh;
+}

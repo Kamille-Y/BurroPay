@@ -1,0 +1,6 @@
+.table {
+    display: flex;
+    padding: 25px;
+    height: 175px;
+    overflow: scroll;
+}

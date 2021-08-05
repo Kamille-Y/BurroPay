@@ -1,0 +1,14 @@
+.wrapper {
+  min-height: 150%;
+  padding-top:10px;
+  /* padding-bottom: 250px; */
+  background-color:darkblue;
+}
+
+h1 {color:white;
+}
+
+.col-md-12 {color: white;
+  text-align: center;
+}
+
